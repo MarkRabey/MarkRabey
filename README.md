@@ -5,7 +5,7 @@ As an Engineering Manager at [Simpplr](https://github.com/Simpplr), I have over 
 I collaborate with cross-functional teams to drive projects, leverage my technical expertise and leadership skills to empower my team, and promote a culture of continuous learning and professional growth. I have a proven track record of developing and implementing internal React and React Native training programs, as well as fostering a positive team culture and ensuring collaboration and communication among team members. I also enjoy sharing my knowledge and experience as a Career Coach, where I provide coaching and mentorship to aspiring and current developers. My mission is to help individuals and organizations achieve their full potential through technology and innovation.
 
 ## Today's Weather
-<div style="text-algin: center">
+<div algin="center">
 
 
 `Midland, Canada - 03/10/2023`
@@ -41,31 +41,31 @@ Sunny
 </table>
 
 
-## Weather For Next 7 days
+## Weather For Next 3 days
 
 
 <table>
     <tr>
         <th>Date</th>
-        <td>03/10/2023</td><td>04/10/2023</td><td>05/10/2023</td><td>06/10/2023</td><td>07/10/2023</td><td>08/10/2023</td><td>09/10/2023</td>
+        <td>03/10/2023</td><td>04/10/2023</td><td>05/10/2023</td>
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Sunny</td><td width="200px">Patchy rain possible</td><td width="200px">Heavy rain</td><td width="200px">Moderate rain</td><td width="200px">Moderate rain</td><td width="200px">Moderate rain</td><td width="200px">Patchy rain possible</td>
+        <td width="200px">Sunny</td><td width="200px">Patchy rain possible</td><td width="200px">Heavy rain</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>16.1 -  24.4 °C</td><td>16.9 -  20.9 °C</td><td>14.4 -  17.7 °C</td><td>6.4 -  12.9 °C</td><td>5.3 -  6.9 °C</td><td>6.4 -  7.9 °C</td><td>4.6 -  8.9 °C</td>
+        <td>16.1 -  24.4 °C</td><td>16.9 -  20.9 °C</td><td>14.4 -  17.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>18 kph</td><td>28.4 kph</td><td>35.6 kph</td><td>36.7 kph</td><td>64.4 kph</td><td>47.9 kph</td><td>14 kph</td>
+        <td>18 kph</td><td>28.4 kph</td><td>35.6 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2023-10-04T16:56:45Z*
+*Updated at: 2023-10-04T17:00:05Z*

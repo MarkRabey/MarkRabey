@@ -5,6 +5,7 @@ As an Engineering Manager at [Simpplr](https://github.com/Simpplr), I have over 
 I collaborate with cross-functional teams to drive projects, leverage my technical expertise and leadership skills to empower my team, and promote a culture of continuous learning and professional growth. I have a proven track record of developing and implementing internal React and React Native training programs, as well as fostering a positive team culture and ensuring collaboration and communication among team members. I also enjoy sharing my knowledge and experience as a Career Coach, where I provide coaching and mentorship to aspiring and current developers. My mission is to help individuals and organizations achieve their full potential through technology and innovation.
 
 ## Today's Weather
+<div style="text-algin: center">
 
 
 `Midland, Canada - 03/10/2023`
@@ -12,6 +13,8 @@ I collaborate with cross-functional teams to drive projects, leverage my technic
 <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
 
 Sunny
+
+</div>
 
 
 <table>
@@ -65,4 +68,4 @@ Sunny
 </table>
 
 
-*Updated at: 2023-10-04T16:53:36Z*
+*Updated at: 2023-10-04T16:56:45Z*

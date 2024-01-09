@@ -1,4 +1,8 @@
 # Mark Rabey
 
-![Mark Rabey's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkRabey&theme=dracula&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkRabey&theme=dracula&layout=compact)
+<a href="https://github.com/MarkRabey/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=markrabey&theme=dracula" />
+</a>
+<a href="https://github.com/MarkRabey">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarkRabey&layout=compact&theme=dracula&card_width=320" />
+</a>
